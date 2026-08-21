@@ -24,5 +24,5 @@ All content is reproduced for personal/educational, non-commercial use; copyrigh
 ## Source
 
 - [GitHub repository](https://github.com/Luen/qurank): source files and issue tracker
-- [Google Drive folder](https://drive.google.com/drive/folders/1zkbM__bb_bCSvjttecvgZDbBBfz5q8Ha?usp=sharing): full raw archive, including files not (yet) published on the site
+- [Google Drive folder](https://drive.google.com/drive/folders/1zkbM__bb_bCSvjttecvgZDbBBfz5q8Ha?usp=sharing): full raw archive
 - [Wayback Machine](https://web.archive.org/web/*/qurank.com*): archived snapshots of the original qurank.com site this repository was recovered from
