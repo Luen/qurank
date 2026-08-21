@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qurank.luenwarneke.com/sitemap.xml
