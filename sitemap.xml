@@ -136,6 +136,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://qurank.luenwarneke.com/frog/frog</loc>
+  <lastmod>2001-04-24T01:24:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://qurank.luenwarneke.com/girraween/Girraween.pdf</loc>
   <lastmod>2008-11-21T00:30:53+00:00</lastmod>
   <priority>0.80</priority>
@@ -193,6 +198,16 @@
 <url>
   <loc>https://qurank.luenwarneke.com/magnetic/magnetic</loc>
   <lastmod>2003-08-05T16:13:00+10:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qurank.luenwarneke.com/serpent/serpent</loc>
+  <lastmod>2001-02-18T21:29:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qurank.luenwarneke.com/shadowglen/shadowglen</loc>
+  <lastmod>2001-02-18T21:28:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>

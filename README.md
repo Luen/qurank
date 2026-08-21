@@ -1,7 +1,7 @@
 # QURANK Historical Queensland Rock Climbing Guides Repository
 Welcome to the official GitHub repository for the QURANK Historical Queensland Rock Climbing Guides. This project aims to preserve and make accessible the rich history of rock climbing in Queensland, Australia. By hosting these guides, we offer climbers, historians, and enthusiasts a glimpse into the evolution of climbing routes, techniques, and cultures specific to Queensland's unique landscapes.
 
-https://qurank.luenwarneke.com/
+https://qurank.luenwarneke.com/, hosted via [Cloudflare Pages](https://pages.cloudflare.com/) straight from this repository.
 
 Also available on Google Drive <https://drive.google.com/drive/folders/1zkbM__bb_bCSvjttecvgZDbBBfz5q8Ha?usp=sharing>
 
