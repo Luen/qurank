@@ -1,9 +1,11 @@
 # QURANK Historical Queensland Rock Climbing Guides Repository
 Welcome to the official GitHub repository for the QURANK Historical Queensland Rock Climbing Guides. This project aims to preserve and make accessible the rich history of rock climbing in Queensland, Australia. By hosting these guides, we offer climbers, historians, and enthusiasts a glimpse into the evolution of climbing routes, techniques, and cultures specific to Queensland's unique landscapes.
 
-https://qurank.luenwarneke.com/
+https://qurank.luenwarneke.com/, hosted via [Cloudflare Pages](https://pages.cloudflare.com/) straight from this repository.
 
 Also available on Google Drive <https://drive.google.com/drive/folders/1zkbM__bb_bCSvjttecvgZDbBBfz5q8Ha?usp=sharing>
+
+The original qurank.com site (before its content moved to this repository) is preserved on the [Wayback Machine](https://web.archive.org/web/*/qurank.com*).
 
 ## About QURANK
 QURANK serves as a comprehensive archive of old Queensland rock climbing guides, capturing the essence and adventure of rock climbing in Queensland through the ages. These guides document the technical aspects of climbing routes and embody the community's spirit, challenges, and achievements over the years.
@@ -17,6 +19,8 @@ This repository and its contents are provided for personal and educational use o
 
 ## Acknowledgements
 We extend our gratitude to the climbers, authors, photographers, and everyone who has contributed to the rock climbing community in Queensland. Your adventures and stories continue to inspire and challenge us.
+
+Many of these guides were originally authored by Lee Skidmore, who is now known as Lee Cujes.
 
 ## Contact
 For inquiries, suggestions, or to report issues, please open an issue on this repository or contact us directly through GitHub.

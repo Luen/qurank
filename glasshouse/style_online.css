@@ -1,0 +1,120 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    background-color: #222222;
+    color: #CCCCCC;
+}
+div {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #CCCCCC;
+}
+p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #CCCCCC;
+
+}
+ol {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #CCCCCC;
+}
+ul {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #CCCCCC;
+}
+li {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #CCCCCC;
+}
+b {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 24pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+h2 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+h3 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+.NavLink {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.AreaName {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+.CragName {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+.ClimbName {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.ClimbLengthAndGrade {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+}
+.ClimbDetails {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    color: #CCCCCC;
+}
+A:link {
+    color: #AACCFF;
+    text-decoration: underline;
+}
+A:visited {
+    color: #5577CC;
+    text-decoration: underline;
+}
