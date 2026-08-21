@@ -1,0 +1,237 @@
+<html>
+<head>
+<meta name="Content-Type" content="text/html; charset=iso-8859-1">
+<title>A Climber's Guide To The Glasshouses - Submit a New Route</title>
+<link rel="stylesheet" href="style_online.css">
+<script language="JavaScript">
+<!-- hide me
+function check_form(frmSubmitNewRoute) {
+    if (frmSubmitNewRoute.frpRouteName.value == "")
+    {
+        alert("Please enter the name of the route.");
+        frmSubmitNewRoute.frpRouteName.focus();
+        return(false);
+    }
+
+    if (frmSubmitNewRoute.frpRouteLength.value == "")
+    {
+        alert("Please enter the length of the route.");
+        frmSubmitNewRoute.frpRouteLength.focus();
+        return(false);
+    }
+
+    if (frmSubmitNewRoute.frpRouteGrade.value == "")
+    {
+        alert("Please enter the grade of the route.");
+        frmSubmitNewRoute.frpRouteGrade.focus();
+        return(false);
+    }
+
+    if (frmSubmitNewRoute.frpCragName.value == "")
+    {
+        alert("Please enter the name of the crag that the route is located at.");
+        frmSubmitNewRoute.frpCragName.focus();
+        return(false);
+    }
+
+    if (frmSubmitNewRoute.frpDescStart.value == "")
+    {
+        alert("Please enter a description of how to find the start of the route.");
+        frmSubmitNewRoute.frpDescStart.focus();
+        return(false);
+    }
+
+    if (frmSubmitNewRoute.frpDescRoute.value == "")
+    {
+        alert("Please enter a description of the route.");
+        frmSubmitNewRoute.frpDescRoute.focus();
+        return(false);
+    }
+
+    return(true);
+}
+//-->
+</script>
+</head>
+
+
+<body OnLoad="document.frmSubmitNewRoute.frpRouteName.focus();">
+<table width="100%">
+<tr>
+<td align="left" valign="center" width="95%">
+
+<hr>
+
+<span class="NavLink">
+<a href="introduction.html">Home</a> &gt; Submit a New Route
+</span>
+
+<hr>
+
+</td>
+<td align="right" valign="top" width="5%">
+<a target="_top" href="glasshouse.html">
+<img border="0" src="images/src_logo_small.gif" width="150" height="47">
+</a>
+</td>
+</tr>
+</table>
+
+
+
+
+
+<h1>Submit a New Route</h1>
+<blockquote>
+  <form method="post" enctype="text/plain" action="mailto:lee.skidmore@qr.com.au" name="frmSubmitNewRoute" onSubmit="return check_form(this);" onReset="document.frmSubmitNewRoute.frpRouteName.focus();">
+    <table border="0" cellspacing="0" cellpadding="2" width="90%">
+      <tr>
+        <td width="20%" valign="top">
+          <div align="right"><p>Route name :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+          <input type="text" name="frpRouteName" size="27">
+          </p>
+        </td>
+        <td width="20%" valign="top">
+          <div align="right"><p>Length (m) :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="text" name="frpRouteLength" size="27">
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" valign="top">
+          <div align="right"><p>Grade :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="text" name="frpRouteGrade" size="27">
+          </p>
+        </td>
+        <td width="30%" valign="top">
+          <div align="right"><p>Stars :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <select name="frpStars">
+              <option selected>None - pretty average</option>
+              <option>1 - worth doing</option>
+              <option>2 - worth doing many times</option>
+              <option>3 - an absolute classic!</option>
+            </select>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" valign="top">
+          <div align="right"><p>Crag :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="text" name="frpCragName" size="27">
+          </p>
+        </td>
+        <td width="20%" valign="center">
+          <div align="right">
+            <p>
+              Sport climb?<br>
+              Dangerous?<b>*</b>
+            </p>
+          </div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="checkbox" name="frpSportRoute"><br>
+            <input type="checkbox" name="frpWarning">
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" valign="top">
+          <div align="right"><p>Start :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <textarea name="frpDescStart" cols="23" rows="4"></textarea>
+          </p>
+        </td>
+        <td width="20%" valign="top">
+          <div align="right"><p>Description :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <textarea name="frpDescRoute" cols="23" rows="4"></textarea>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" valign="top">
+          <div align="right"><p>First ascentionist :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="text" name="frpFirstAscentionist" size="27">
+          </p>
+        </td>
+        <td width="20%" valign="top">
+          <div align="right"><p>Date of first ascent :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="text" name="frpDateFA" size="27">
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" valign="top">
+          <div align="right"><p>Contact email :</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>
+            <input type="text" name="frpEmail" size="27">
+          </p>
+        </td>
+        <td width="20%" valign="top">
+          <div align="right"><p>&nbsp;</p></div>
+        </td>
+        <td width="30%" valign="top">
+          <p>&nbsp;
+            
+          </p>
+        </td>
+      </tr>
+    </table>
+    <div align="center"><p>
+      <input type="submit" name="btnSubmit" value="Submit Climb Details">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input type="reset" name="btnReset" value="Clear Climb Details">
+    </p></div>
+  </form>
+</blockquote>
+
+<p>
+<table border="0" cellspacing="0" cellpadding="2" width="90%">
+  <tr>
+    <td width="10%" valign="top">
+      <div align="right"><p><b>*</b></p></div>
+    </td>
+    <td width="90%" valign="top">
+      <p>
+      All climbs are dangerous (obviously).  This check box indicates that the climb involves more than the usual
+      amount of danger. The climb might be runout, the bolts badly corroded or missing, or the rock poor.  If
+      you feel that a leader who climbs at or below the grade has a good chance of injury on this climb, please
+      tick this box.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p><hr><div align="center">
+Copyright &copy; 2002 <a href="mailto:lee.skidmore@qr.com.au">Lee Skidmore</a>
+</div>
+</body>
+</html>

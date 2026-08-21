@@ -1,0 +1,26 @@
+# QURANK
+
+> QURANK is a static archive of historical, out-of-print Queensland (Australia) rock climbing guides — PDFs, Word docs, and hand-written HTML guidebooks originally authored between the late 1990s and mid-2000s, mostly by Lee Skidmore and other Queensland climbers. It is a preservation project, not an actively maintained or up-to-date climbing resource.
+
+QURANK was originally hosted at qurank.com. That site is defunct; this repository preserves and re-hosts its content at https://qurank.luenwarneke.com/. Route information, grades, and access notes in these guides are old and unverified — for current conditions, bolts, and access, climbers should consult theCrag (thecrag.com) or local Queensland climbing communities instead.
+
+All content is reproduced for personal/educational, non-commercial use; copyright remains with the original authors and photographers credited within each guide.
+
+## Guides
+
+- [Index](https://qurank.luenwarneke.com/): full list of every guide and region on the site
+- [Castle Hill (Townsville)](https://qurank.luenwarneke.com/castlehill/castlehill)
+- [Mt Stuart (Townsville)](https://qurank.luenwarneke.com/stuart/stuart)
+- [Kangaroo Point (Brisbane)](https://qurank.luenwarneke.com/kangaroopoint/kangaroopoint)
+- [Girraween](https://qurank.luenwarneke.com/girraween/girraween)
+- [Frog Buttress](https://qurank.luenwarneke.com/Guide_FrogButtress.pdf)
+- [Cairns](https://qurank.luenwarneke.com/cairns/cairns)
+- [Glasshouse Mountains](https://qurank.luenwarneke.com/glasshouse/glasshouse): Mt Tibrogargan, Mt Beerwah, Mt Coonowrin, Mt Ngungun, Dwarfland
+- [Brooyar](https://qurank.luenwarneke.com/brooyar/brooyar)
+- [Battery Hill](https://qurank.luenwarneke.com/batteryhill/batteryhill)
+
+## Source
+
+- [GitHub repository](https://github.com/Luen/qurank): source files and issue tracker
+- [Google Drive folder](https://drive.google.com/drive/folders/1zkbM__bb_bCSvjttecvgZDbBBfz5q8Ha?usp=sharing): full raw archive, including files not (yet) published on the site
+- [Wayback Machine](https://web.archive.org/web/*/qurank.com*): archived snapshots of the original qurank.com site this repository was recovered from
