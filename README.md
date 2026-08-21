@@ -20,6 +20,8 @@ This repository and its contents are provided for personal and educational use o
 ## Acknowledgements
 We extend our gratitude to the climbers, authors, photographers, and everyone who has contributed to the rock climbing community in Queensland. Your adventures and stories continue to inspire and challenge us.
 
+Many of these guides were originally authored by Lee Skidmore, who is now known as Lee Cujes.
+
 ## Contact
 For inquiries, suggestions, or to report issues, please open an issue on this repository or contact us directly through GitHub.
 

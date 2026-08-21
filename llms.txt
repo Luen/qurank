@@ -1,6 +1,6 @@
 # QURANK
 
-> QURANK is a static archive of historical, out-of-print Queensland (Australia) rock climbing guides — PDFs, Word docs, and hand-written HTML guidebooks originally authored between the late 1990s and mid-2000s, mostly by Lee Skidmore and other Queensland climbers. It is a preservation project, not an actively maintained or up-to-date climbing resource.
+> QURANK is a static archive of historical, out-of-print Queensland (Australia) rock climbing guides — PDFs, Word docs, and hand-written HTML guidebooks originally authored between the late 1990s and mid-2000s, mostly by Lee Skidmore (now known as Lee Cujes) and other Queensland climbers. It is a preservation project, not an actively maintained or up-to-date climbing resource.
 
 QURANK was originally hosted at qurank.com. That site is defunct; this repository preserves and re-hosts its content at https://qurank.luenwarneke.com/. Route information, grades, and access notes in these guides are old and unverified — for current conditions, bolts, and access, climbers should consult theCrag (thecrag.com) or local Queensland climbing communities instead.
 
